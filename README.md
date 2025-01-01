@@ -10,7 +10,7 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 ---
 
 ## 📊 Top Languages by Commit:
-![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=firasayazid&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=firasyazid&layout=compact&theme=tokyonight&hide_border=true)
 
  
 
