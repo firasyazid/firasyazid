@@ -10,7 +10,7 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=firasdev&theme=react-dark&hide_border=true)
+![Customized Stats](https://github-readme-stats.vercel.app/api?username=firasyazid&hide=stars,issues&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
