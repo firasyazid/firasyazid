@@ -8,9 +8,7 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 - 👯 **Looking to Collaborate On:** Web, Mobile, and AI-based applications  
 - 📫 **Reach Me At My LinkedIn:** (https://www.linkedin.com/in/firas-yazid-32a499222/)
 ---
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firasyazid&show_icons=true&theme=tokyonight&hide_border=true)
-
+ 
 > 🛠️ **Note:** Many of my contributions are in private repositories due to work-related projects.
 
 
