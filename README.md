@@ -16,6 +16,9 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 
 ## 💻 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firasyazid&layout=compact&theme=tokyonight&hide_border=true)
+## 🌟 GitHub Contribution Graph:
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=firasyazid&theme=react-dark&hide_border=true)
 
 ---
 
