@@ -8,6 +8,9 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 - 👯 **Looking to Collaborate On:** Web, Mobile, and AI-based applications  
 - 📫 **Reach Me At My LinkedIn:** (https://www.linkedin.com/in/firas-yazid-32a499222/)
 ---
+## 🔥 GitHub Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=firasyazid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 📊 Top Languages by Commit:
 ![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=firasyazid&layout=compact&theme=tokyonight&hide_border=true)
