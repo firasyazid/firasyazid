@@ -10,12 +10,12 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firasyazid&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 💻 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firasyazid&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -26,8 +26,9 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+
 ---
 
 ## 🌟 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?firasyazid=yourusername&color=blue)
 
