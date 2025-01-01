@@ -9,7 +9,6 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 - 📫 **Reach Me At My LinkedIn:** (https://www.linkedin.com/in/firas-yazid-32a499222/)
 ---
  
-> 🛠️ **Note:** Many of my contributions are in private repositories due to work-related projects.
 
 
 ## 🔥 GitHub Streak Stats:
@@ -31,7 +30,6 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-
-
 ---
+> 🛠️ **Note:** Many of my contributions are in private repositories due to work-related projects.
  
