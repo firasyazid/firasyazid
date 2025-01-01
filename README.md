@@ -9,6 +9,9 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 - 📫 **Reach Me At My LinkedIn:** (https://www.linkedin.com/in/firas-yazid-32a499222/)
 ---
 
+## 📊 Top Languages by Commit:
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
  
 
 ## 🛠️ Technologies & Tools:
