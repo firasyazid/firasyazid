@@ -19,7 +19,7 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 ## 🌟 GitHub Contribution Graph:
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=firasyazid&theme=react-dark&hide_border=true)
-
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firasyazid&theme=tokyonight"
 ---
 
 ## 🛠️ Technologies & Tools:
