@@ -16,11 +16,8 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 
 ## 💻 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firasyazid&layout=compact&theme=tokyonight&hide_border=true)
-## 🌟 GitHub Contribution Graph:
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=firasyazid&theme=react-dark&hide_border=true)
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firasyazid&theme=tokyonight"
----
+ 
+  ---
 
 ## 🛠️ Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,7 +28,4 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 
 
 ---
-
-## 🌟 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?firasyazid=yourusername&color=blue)
-
+ 
