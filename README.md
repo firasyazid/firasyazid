@@ -7,9 +7,9 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 - 🔭 **Currently Working On:** Dev and Machine Learning Projects  
 - 👯 **Looking to Collaborate On:** Web, Mobile, and AI-based applications
 - 
- ---📫 Reach Me At:
-LinkedIn: https://www.linkedin.com/in/firas-yazid-32a499222/ <br>
-Portfolio: https://portfolio-firas-yazid.vercel.app/
+- 📫 **Reach Me At:**  
+  - [LinkedIn](https://www.linkedin.com/in/firas-yazid-32a499222/)  
+  - [Portfolio](https://portfolio-firas-yazid.vercel.app/)
 
  
 
