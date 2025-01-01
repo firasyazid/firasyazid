@@ -12,7 +12,7 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 ## 📊 Top Languages by Commit:
 ![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=firasyazid&layout=compact&theme=tokyonight&hide_border=true)
 
- https://github.com/firasyazid/firasyazid/blob/output/github-contribution-grid-snake-dark.svg"
+ https://github.com/firasyazid/firasyazid/blob/output/github-contribution-grid-snake-dark.svg
 
 ## 🛠️ Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
