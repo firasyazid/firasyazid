@@ -5,7 +5,6 @@ I'm a **technology enthusiast** since childhood
 Also diving into **AI projects**, and I enjoy solving real-world problems through code. 🚀
 
 - 🔭 **Currently Working On:** Dev and Machine Learning Projects  
-- 🌱 **Learning:** Advanced React Native and Natural Language Processing  
 - 👯 **Looking to Collaborate On:** Web, Mobile, and AI-based applications  
 - 📫 **Reach Me At:** [Your Email](mailto:your-email@example.com)  
 
