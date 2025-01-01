@@ -12,9 +12,7 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 [![GitHub Streak](https://streak-stats.demolab.com?user=firasyazid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  
  
-## 📈 GitHub Contribution Graph:
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=firasyazid&theme=react-dark&hide_border=true)
-
+ 
 ## 🛠️ Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
