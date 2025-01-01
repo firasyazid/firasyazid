@@ -1,9 +1,10 @@
 # Hello, I'm Firas 👋
 
 ### A Software Engineer Specialized in Web and Mobile Development  
-I'm currently diving into **AI projects**, and I enjoy solving real-world problems through code. 🚀
+I'm a **technology enthusiast** since childhood
+Also diving into **AI projects**, and I enjoy solving real-world problems through code. 🚀
 
-- 🔭 **Currently Working On:** AI and Machine Learning Projects  
+- 🔭 **Currently Working On:** Dev and Machine Learning Projects  
 - 🌱 **Learning:** Advanced React Native and Natural Language Processing  
 - 👯 **Looking to Collaborate On:** Web, Mobile, and AI-based applications  
 - 📫 **Reach Me At:** [Your Email](mailto:your-email@example.com)  
