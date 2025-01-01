@@ -10,11 +10,7 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
 ---
 ## 🔥 GitHub Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=firasyazid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-## 🏆 GitHub Achievements:
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=firasyazid&theme=radical&no-frame=true&column=4)
-
-
-
+ 
 ## 📊 Top Languages by Commit:
 ![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=firasyazid&layout=compact&theme=tokyonight&hide_border=true)
 
