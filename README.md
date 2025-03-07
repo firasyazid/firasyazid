@@ -4,7 +4,7 @@
 I'm a **technology enthusiast** since childhood
 Also diving into **AI projects**, and I enjoy solving real-world problems through code. 🚀
 
-- 🔭 **Currently Working On:** Dev and Machine Learning Projects  
+- 🔭 **Currently Working On:** Dev and Artificial Intelligence Projects  
 - 👯 **Looking to Collaborate On:** Web, Mobile, and AI-based applications
   
 - 📫 **Reach Me At:**  
