@@ -9,7 +9,7 @@ Also diving into **AI projects**, and I enjoy solving real-world problems throug
   
 - 📫 **Reach Me At:**  
   - [LinkedIn](https://www.linkedin.com/in/firas-yazid-32a499222/)  
-  - [Portfolio](https://firasyazid.github.io/e-portfolio/) 
+  - [Portfolio](https://firas-yazid-portfolio.vercel.app/) 
 
  
 
